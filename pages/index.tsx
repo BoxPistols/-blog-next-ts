@@ -18,8 +18,8 @@ export default function Home() {
 	)
 }
 
-export const getStaticProps: getStaticProps = async () => {
-	return {
-		props: {},
-	}
-}
+// export const getStaticProps: getStaticProps = async () => {
+// 	return {
+// 		props: {},
+// 	}
+// }
